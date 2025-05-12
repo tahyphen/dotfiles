@@ -1,0 +1,3 @@
+[submodule "neovim/pack/vyfor/start/cord.nvim"]
+	path = neovim/pack/vyfor/start/cord.nvim
+	url = https://github.com/vyfor/cord.nvim.git
