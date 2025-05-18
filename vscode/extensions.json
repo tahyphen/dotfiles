@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "foxundermoon.shell-format",
+        "GitHub.copilot",
+        "github.vscode-github-actions",
+        "GitHub.vscode-pull-request-github",
+        "LeonardSSH.vscord",
+        "ms-azuretools.vscode-containers",
+        "ms-vscode.remote-repositories",
+        "timonwong.shellcheck"
+    ]
+}
