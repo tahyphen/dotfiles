@@ -7,6 +7,7 @@
         "LeonardSSH.vscord",
         "ms-azuretools.vscode-containers",
         "ms-vscode.remote-repositories",
+        "ms-vscode-remote.remote-containers",
         "timonwong.shellcheck"
     ]
 }
